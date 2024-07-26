@@ -1,38 +1,18 @@
 # Notes
 
-## Exercices
-### Ex. 1
-### Ex. 2
-- titre : 
-> `a no kata` ("personne", poli)
-> `donata` = forme polie de `dare`, "qui"
-- 1)
-  - A
-  - B
-  - A - mo / x
-  - B - wa
+## Sommaire
 
-- 2)
-> OK
-
-### Ex. 3
-- sono kaban
-- are kaban
-
-### Ex. 4
-**Titre**: miller-san wa kaishain desuka.  ... hai, kaishain desu.
-- 1) karina-san wa gakusei desuka? ... hai, "gakusei desu."
-- 2) , ...iie, "gakusei dja arimasen"
-- 3) a no kata wa "donata desuka?" ... yamada san desu
-- 4) kono kasa wa "dare no desu ka" ... miller-san no desu
-
-### Ex. 5
+- [1 - Particules](./1 - Particules.md)
+- [2 - Pronoms démonstratifs](./2 - Pronoms demonstratifs.md)
+- [3 - Localisation](./3 - Localisation.md)
+- [4 - Conjugaison polie](./4 - Conjugaison polie.md)
+- [4.1(?) - Exercices](./4.1 - Exercices.md)
 
 
 
+## Pour les rédacteurs :
 
-
-## Comment écrire des furigana en Markdown?
+### Comment écrire des furigana en Markdown?
 
 ```html
 <ruby>

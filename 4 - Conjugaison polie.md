@@ -17,7 +17,7 @@ Peut être :
 
 1. J’étudie tous les jours
 
-   > する -> devient あします
+   > ℹ する -> devient あします
 
 ## 3. N(moment) に V
 
@@ -31,15 +31,13 @@ La particule に de localisation <u>temporelle et spatiale</u>.
 - **から** : A partir de / depuis / début
 - **まで** : Jusque / jusqu'au / fin
 
-## 5. `N1 と N2` to
+## 5. N1 と N2
 
-Coordone les noms entre eux : La banque est fermee le samedi **et** (`と`) le dimanche.
+Coordone les noms entre eux : La banque est fermee le samedi **et** (と) le dimanche.
 
-## 6. `～ね` ne
+## 6. ～ね
 
-> Le nez de Jean-Lassale
+> 👃 Le nez (ね) de Jean-Lassale
 
 Utilise en fin de phrase pour montrer l'attente de la reponse/avis de l'interlocuteur
-Comparable a `..., n'est-ce pas?`
-
-## 
+Comparable a "..., n'est-ce pas?"
