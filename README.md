@@ -2,11 +2,15 @@
 
 ## Sommaire
 
-- [1 - Particules](1 - Particules.md)
-- [2 - Pronoms démonstratifs](2 - Pronoms demonstratifs.md)
-- [3 - Localisation](3 - Localisation.md)
-- [4 - Conjugaison polie](4 - Conjugaison polie.md)
-- [4.1(?) - Exercices](4.1 - Exercices.md)
+[1 - Particules](1 - Particules.md)
+
+[2 - Pronoms démonstratifs](2 - Pronoms demonstratifs.md)
+
+[3 - Localisation](3 - Localisation.md)
+
+[4 - Conjugaison polie](4 - Conjugaison polie.md)
+
+[4.1(?) - Exercices](4.1 - Exercices.md)
 
 
 
