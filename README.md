@@ -12,6 +12,13 @@
 
 ## Pour les rédacteurs :
 
+### Mise en forme du texte
+
+Ces documents utilisent la syntaxe "Markdown".
+
+- Éditeur markdown web : https://stackedit.io/
+- Documentation de la syntaxe Markdown : https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 ### Comment écrire des furigana en Markdown?
 
 ```html
