@@ -1,7 +1,5 @@
 # Leçon 1 - Particules
 
-[TOC]
-
 ## 1. N1 は N2 です
 
 ### 1) Particule enclitique は 

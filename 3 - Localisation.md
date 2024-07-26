@@ -1,7 +1,5 @@
 # Leçon 3 - Localisation
 
-[toc]
-
 ### 1. ここ／そこ／ あそこ  &  こちら／そちら／あちら
 
 ここ / そこ / あそこ => Comme こら / それ / あれ mais représente un lieu, un endroit éloigné

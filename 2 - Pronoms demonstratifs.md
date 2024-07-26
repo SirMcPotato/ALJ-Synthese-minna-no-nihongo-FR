@@ -1,7 +1,5 @@
 # Leçon 2 -  Pronoms démonstratifs
 
-[toc]
-
 ## 1. これ / それ / あれ
 
 Désignent les choses et fonctionnent comme des noms.
