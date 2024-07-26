@@ -45,7 +45,7 @@ ex:
 
 Demande a l'interlocuteur de choisir entre deux ou plusieurs phrases interrogatives :
 
-> あの<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>は<ruby>彼女<rp>(</rp><rt>かのじょう</rt><rp>)</rp></ruby>ですか、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>ですか。Est-ce que cette personne est une fille ou un garçon?
+> あの<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>は<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ですか、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ですか。Est-ce que cette personne est une fille ou un garçon?
 
 ## 5. `N1 の　N2`
 
