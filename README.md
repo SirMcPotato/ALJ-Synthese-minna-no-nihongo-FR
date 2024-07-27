@@ -10,7 +10,7 @@
 - [5 - Déplacement](<./5 - Deplacement.md>)
 
 ### Annexes
-- [A1 - Kana](<./_A1 - Kana.md>)
+- [A1 - Kana (WIP)](<./_A1 - Kana.md>)
 - [A2 - Nombres](<./_A2 - Nombres.md>)
 
 

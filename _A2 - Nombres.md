@@ -124,17 +124,17 @@ Nombre de "dizaines de milliers" + **まん** (<ruby>万<rp>(</rp><rt>まん</rt
 - 2 -　<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby> 　／　に
 - 3 -　<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby> 　／　さん
 - 4 -　<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> 　／　よん
-  - 📝**Note** : Le kanji **4** s'écrit normalement <ruby>四<rp>(</rp><rt>し</rt><rp>)</rp></ruby> selon la prononciation "chinoise" *(onyomi)*.
-    Cependant cette prononciation étant très proche du <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby> de *"mort"*, il est souvent préféré de l'écrire <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> selon la prononciation "japonaise" *(kunyomi)*.
-    Cependant, le mois d'Avril se dit <ruby>四<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>. On conserve ici la prononciation onyomi.
+  - 📝**Note** : Le kanji **4** s'écrit normalement <ruby>四<rp>(</rp><rt>し</rt><rp>)</rp></ruby> selon la prononciation "chinoise" *(onyomi)*.  
+    Cependant cette prononciation étant très proche du <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby> de *"mort"*, il est souvent préféré de l'écrire <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> selon la prononciation "japonaise" *(kunyomi)*.  
+    Néanmoins, le mois d'Avril se dit <ruby>四<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>. On conserve ici la prononciation onyomi.  
     Il est important de connaître ces variations car elles peuvent apparaître dans différents contextes.
   
 - 5 -　<ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby> 　／　ご
 - 6 -　<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby> 　／　ろく
 - 7 -　<ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby> 　／　なな　*(Se prononce également しち)*
-  - 📝**Note** : Pour des raisons similaires à <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> , le kanji **7** s'écrit normalement <ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp></ruby> selon la prononciation "chinoise" *(onyomi)*.
-    Cependant cette prononciation étant très proche du <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby> de *"mort"*, il est souvent  préféré de le prononcer <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> selon la prononciation "japonaise" *(kunyomi)*.
-    Cependant, le mois de Juillet se dit <ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>. On conserve ici la prononciation onyomi.
+  - 📝**Note** : Pour des raisons similaires à <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> , le kanji **7** s'écrit normalement <ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp></ruby> selon la prononciation "chinoise" *(onyomi)*.  
+    Cependant cette prononciation étant très proche du <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby> de *"mort"*, il est souvent  préféré de le prononcer <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> selon la prononciation "japonaise" *(kunyomi)*.  
+    Néanmoins, le mois de Juillet se dit <ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>. On conserve ici la prononciation onyomi.  
     Il est important de connaître ces variations car elles peuvent apparaître dans différents contextes.
 
 - 8 -　<ruby>八<rp>(</rp><rt>はち</rt><rp>)</rp></ruby> 　／　はち
