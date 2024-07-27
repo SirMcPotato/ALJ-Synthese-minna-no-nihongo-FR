@@ -1,12 +1,17 @@
 # Notes
 
 ## Sommaire
-
+### Cours
 - [1 - Particules](<./1 - Particules.md>)
 - [2 - Pronoms démonstratifs](<./2 - Pronoms demonstratifs.md>)
 - [3 - Localisation](<./3 - Localisation.md>)
 - [4 - Conjugaison polie](<./4 - Conjugaison polie.md>)
 - [4.1(?) - Exercices](<./4.1 - Exercices.md>)
+- [5 - Déplacement](<./5 - Deplacement.md>)
+
+### Annexes
+- [A1 - Kana](<./_A1 - Kana.md>)
+- [A2 - Nombres](<./_A2 - Nombres.md>)
 
 
 
