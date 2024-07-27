@@ -1,6 +1,10 @@
 # Leçon 1 - Particules
 
-## 1. N1 は N2 です
+https://www.youtube.com/watch?v=10cBqkrT6Dw
+
+**Particule** : Un kana qui se place avant ou après certains mots pour donner a ces mots leur fonction grammaticale.
+
+## 1. N1 は N2 です `1:46`
 
 ### 1) Particule enclitique は 
 
@@ -14,13 +18,20 @@ Peut être traduit "En ce qui concerne X"
 
 ### 2) です
 
-Signifie "être" *(d'état)* dans sa forme "non-accomplie" et "positive"
+Verbe signifiant "être" *(d'état)* dans sa forme "non-accomplie" et "positive".
 
-## 2. N1 は N2 じゃ（では）ありません
+Permet également de marquer la politesse.
 
-じゃありません ou ではありません est la forme non-accomplie négative de です
+## 2. N1 は N2 じゃ（では）ありません `7:34`
 
-## 3. N1 は N2 ですか
+じゃありません ou ではありません est la forme non-accomplie négative de です.
+
+> Comparable à "Ne pas être"
+
+- **でわ** : Plus vu a l'écrit
+- **じゃ**: Plus entendu à l'oral
+
+## 3. N1 は N2 ですか ``
 
 ですか  => Une question
 
