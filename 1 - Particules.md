@@ -1,28 +1,9 @@
-# Leçon 1 - Particules
-
-https://www.youtube.com/watch?v=10cBqkrT6Dw
-
-**Particule** : Un kana qui se place avant ou après certains mots pour donner a ces mots leur fonction grammaticale.
-
-## 1. N1 は N2 です `1:46`
-
-### 1) Particule enclitique は 
-
-> ℹ Se prononce わ
-
-Marque le thème, mais pas nécessairement le sujet.
-Peut être traduit "En ce qui concerne X"
-
-- わたし*(moi)* わ *(En ce qui concerne)*
-  - En ce qui **me** concerne
-
-### 2) です
+# Particules
+## です
 
 Verbe signifiant "être" *(d'état)* dans sa forme "non-accomplie" et "positive".
 
 Permet également de marquer la politesse.
-
-## 2. N1 は N2 じゃ（では）ありません `7:34`
 
 じゃありません ou ではありません est la forme non-accomplie négative de です.
 
@@ -31,20 +12,28 @@ Permet également de marquer la politesse.
 - **でわ** : Plus vu a l'écrit
 - **じゃ**: Plus entendu à l'oral
 
-## 3. N1 は N2 ですか ``
+|                            | Poli                                           | Neutre                         |
+| -------------------------- | ---------------------------------------------- | ------------------------------ |
+| **Présent**                | です                                           | だ                             |
+| **Passé**                  | でした                                         | だった                         |
+| **Présent** <u>négatif</u> | ではありません　（じゃありません）             | ではない 　（じゃない）        |
+| **Passé** <u>négatif</u>   | ではありませんでした　（じゃありませんでした） | ではなかった　（じゃなかった） |
+
+## は
+> ℹ Se prononce わ
+
+Marque le thème, mais pas nécessairement le sujet.
+Peut être traduit "En ce qui concerne X"
+
+- わたし*(moi)* **は** *(En ce qui concerne)*
+  - En ce qui **me** concerne
+
+## が
 
 ですか  => Une question
 
-## 4. N も
+## か
 
-Utilise lorsque la phrase valide la même chose que mentionnée précédemment
+Demande a l'interlocuteur de choisir entre deux ou plusieurs phrases interrogatives :
 
-> も = aussi
-
-## 5. N1 の N2
-
-Se place entre deux noms : `N1 の N2` -> `posseseur の possede`
-
-## 6. ～さん
-
-Collé a un nom, généralement pour préciser un adulte
+> あの<ruby>方<rp>(</rp><rt>かた</rt><rp>)</rp></ruby>は<ruby>女<rp>(</rp><rt>おんな</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ですか、<ruby>男<rp>(</rp><rt>おとこ</rt><rp>)</rp></ruby>の<ruby>子<rp>(</rp><rt>こ</rt><rp>)</rp></ruby>ですか。Est-ce que cette personne est une fille ou un garçon?

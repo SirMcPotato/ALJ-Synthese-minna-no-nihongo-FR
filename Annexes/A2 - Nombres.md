@@ -6,7 +6,7 @@ Mais comment que ça marche que donc tout cela?
 
 ### Les unités, de 1 à 10 :
 
-**1**: いち、**2**: に、**3**: さん、**4**: よん ou し、**5**: ご、**6**: ろく、**7** : なな ou しち、**8** : はち、**9** : きゅ、**10**: じゅう
+**1**: いち、**2**: に、**3**: さん、**4**: よん ou し、**5**: ご、**6**: ろく、**7** : なな ou しち、**8** : はち、**9** : きゅう、**10**: じゅう
 
 > ℹ Voir les exemples ci-dessous
 
@@ -120,6 +120,7 @@ Nombre de "dizaines de milliers" + **まん** (<ruby>万<rp>(</rp><rt>まん</rt
 
 ## 2. Nombres - Référence
 
+- 0 -　　／　れい 
 - 1 -　<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby> 　／　いち
 - 2 -　<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby> 　／　に
 - 3 -　<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby> 　／　さん
@@ -170,3 +171,12 @@ Nombre de "dizaines de milliers" + **まん** (<ruby>万<rp>(</rp><rt>まん</rt
 - ...
 - 9 500 050 -  <ruby>九<rp>(</rp><rt>きゅう</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ひゃく</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby><ruby>万<rp>(</rp><rt>まん</rt><rp>)</rp></ruby><ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby><ruby>十<rp>(</rp><rt>じゅう</rt><rp>)</rp></ruby>　／　きゅうひゃくごじゅうまんごじゅう
 - etc ...
+
+
+
+### Maths
+
+- **たす** +
+- **ひく** -
+- **かける** ×
+- **わる** ÷
