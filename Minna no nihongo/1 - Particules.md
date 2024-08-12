@@ -14,7 +14,7 @@ Marque le thème, mais pas nécessairement le sujet.
 Peut être traduit "En ce qui concerne X"
 
 - わたし*(moi)* **は** *(En ce qui concerne)*
-  - En ce qui **me** concerne
+  - En ce qui <u>me</u> concerne
 
 ### 2) です
 
@@ -33,18 +33,18 @@ Permet également de marquer la politesse.
 
 ## 3. N1 は N2 ですか 
 
-ですか  => Une question
+~ですか  => Une question.
 
 ## 4. N も
 
-Utilise lorsque la phrase valide la même chose que mentionnée précédemment
+Utilise lorsque la phrase valide la même chose que mentionnée précédemment.
 
 > も = aussi
 
 ## 5. N1 の N2
 
-Se place entre deux noms : `N1 の N2` -> `posseseur の possede`
+Se place entre deux noms : `N1 の N2` -> `posseseur の possede`.
 
 ## 6. ～さん
 
-Collé a un nom, généralement pour préciser un adulte
+Collé a un nom, généralement pour préciser un adulte.

@@ -30,7 +30,7 @@ Peut être traduit "En ce qui concerne X"
 
 ## が
 
-ですか  => Une question
+~ですか  => Une question.
 
 ## か
 
