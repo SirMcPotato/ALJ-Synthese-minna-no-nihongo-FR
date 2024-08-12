@@ -14,6 +14,8 @@
 ### Annexes
 - [A1 - Kana (WIP)](<./Annexes/A1 - Kana.md>)
 - [A2 - Nombres](<./Annexes/A2 - Nombres.md>)
+- [A3 - Couleurs](<./Annexes/A3 - Couleurs.md>)
+- [A4 - Dates](<./Annexes/A4 - Dates.md>)
 
 ## Pour les rédacteurs :
 
