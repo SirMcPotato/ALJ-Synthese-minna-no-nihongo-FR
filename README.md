@@ -1,4 +1,15 @@
-# Notes
+# À propos
+Ce dépot est une compilation de notes pour l'apprentissage du japonais.
+
+Ces notes sont synthétiques et rédigées par un groupe d'élèves en cours d'apprentissage.  
+Si vous constatez une erreur ou imprécision dans ces notes, merci de bien vouloir [📄 ouvrir un ticket](https://github.com/SirMcPotato/ALJ-Synthese-minna-no-nihongo-FR/issues) pour signaler l'erreur et/ou proposer une correction.
+
+
+> ⚠ Attention!  
+> Toutes les notes assument que le lecteur connait parfaitement ses hiragana et katakana, ceci étant un pré-requis obligatoire pour l'acquisition des bases grammaticales et de vocabulaire.
+>
+> Les kanjis seront annotés à l'aide de furigana ou de leur équivalent en hiragana/katakana lorsqu'ils sont nouveaux.  
+> Cependant, ces aides à la lecture seront absentes lorsqu'il sera considéré que le kanji en question doit etre connu du lecteur à ce niveau d'apprentissage.
 
 ## Sommaire
 - [1 - Particules](<./1 - Particules.md>)
