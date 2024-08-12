@@ -1,4 +1,4 @@
-# Leçon A2 - Nombres
+# Annexe 2 - Nombres
 
 ## 1. Système de comptage
 
