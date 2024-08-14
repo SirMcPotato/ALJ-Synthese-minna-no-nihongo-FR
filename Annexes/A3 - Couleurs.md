@@ -1,25 +1,28 @@
 # Annexe 3 - Couleurs
 
-- **Bleu** : あおいろ
-- **(Jaune)** : きいろ
-- **Rouge**: akairo
+Couleur se dit "いろ"
+
+
+- **Bleu** : あお
+- **(Jaune)** : き
+- **Rouge**: あか
 - **Violet** : むらさき
-- **Blanc** : しろいろ
-- **Orange** : オレンジいろ
-- **Noir** : くろいろ
-- **Vert** : みどりいろ
+- **Blanc** : しろ
+- **Orange** : オレンジ
+- **Noir** : くろ
+- **Vert** : みどり
 - **Rose** : "Pinku" ou "momoiro" 
-- **Argenté** : giniro
+- **Argenté** : ぎん
 - **Doré** : きにろ
-- **(Arc-en-ciel)** : nijiiro
-- **(Marron)** : chairo
-- **(Gris)** : haiiro
-- **(Cramoisi)** : kurenaiiro ou beniiro
+- **(Arc-en-ciel)** : にじ
+- **(Marron)** : ちゃいろ
+- **(Gris)** : はい
+- **(Cramoisi)** : くれないろ　ou　べいいろ
 - **(Beige)**: ベージュ色
 
 ------
 
-- **Foncé** : koi [color]
-  - Bleu foncé : koiao
-- **Clair** : akarui [color]
-  - Vert clair : akarui midori iro
+- **Foncé** : こい [couleur]
+  - Bleu foncé : こいあお
+- **Clair** : あかるい [couleur]
+  - Vert clair : あかるいみどり
