@@ -2,10 +2,10 @@
 ## Jours de la semaine
 
 - **Lundi** : 月曜日　（げつようび）- Lune
-- **Mardi** : 海洋日　（かいようび）- Feu
+- **Mardi** : 火曜日　（かようび）- Feu
 - **Mercredi** : 水曜日　（すいようび）- Eau
 - **Jeudi** : 木曜日　（もくようび）- Bois
-- **Vendredi** : 金曜日　（きにょうび）- Or / paie
+- **Vendredi** : 金曜日　（きんようび）- Or / paie
 - **Samedi** : 土曜日　（どようび） - Terre
 - **Dimanche** : 日曜日　（にちようび）- Soleil
 
