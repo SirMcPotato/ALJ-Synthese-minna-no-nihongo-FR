@@ -1,7 +1,7 @@
 # Particules
 ## です
 > N'est pas une particule, mais une "copule", c.a.d un mot qui relie le sujet au prédicat.
-> Par exemple, en Francais le verbe "etre" est une copule.
+> Par exemple, en Français le verbe "être" est une copule.
 
 Verbe signifiant "être" *(d'état)* dans sa forme "non-accomplie" et "positive".
 
@@ -34,7 +34,7 @@ Peut être traduit "En ce qui concerne X"
 
 ~ですか  => Une question.
 
-Se place aussi apres les autres formes de です tel que ～ではありませんか？
+Se place aussi après les autres formes de です tel que ～ではありませんか？
 
 Demande a l'interlocuteur de choisir entre deux ou plusieurs phrases interrogatives :
 
@@ -42,7 +42,8 @@ Demande a l'interlocuteur de choisir entre deux ou plusieurs phrases interrogati
 
 ## が
 
-ha = theme, ga = sujet
+- **は** = Marque le thème
+- **が** = Marque le sujet
 
 > わたし**は**あなた**が**すきです　-> Moi qui t'aime
 >
