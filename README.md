@@ -14,6 +14,8 @@ Si vous constatez une erreur ou imprécision dans ces notes, merci de bien voulo
 ## Sommaire
 - [1 - Particules](<./1 - Particules.md>)
 - [2 - Verbes](<./2 - Verbes.md>)
+- [3 - Adjectifs](<./3 - Adjectifs.md>)
+- [4 - Ichidan & Godan](<./4 - Ichidan & Godan.md>)
 
 ### Minna no nihongo
 - [1 - Particules](<./Minna no nihongo/1 - Particules.md>)

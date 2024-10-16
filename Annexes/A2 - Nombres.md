@@ -6,7 +6,7 @@ Mais comment que ça marche que donc tout cela?
 
 ### Les unités, de 1 à 10 :
 
-**1**: いち、**2**: に、**3**: さん、**4**: よん ou し、**5**: ご、**6**: ろく、**7** : なな ou しち、**8** : はち、**9** : きゅう、**10**: じゅう
+**1**: いち、**2**: に、**3**: さん、**4**: よん *ou* し、**5**: ご、**6**: ろく、**7** : なな *ou* しち、**8** : はち、**9** : きゅう、**10**: じゅう
 
 > ℹ Voir les exemples ci-dessous
 
@@ -59,8 +59,8 @@ Nombre de milliers + **せん** (<ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></r
 > ⚠ Il existe les irréguliers suivants :
 >
 > - **1000** :　**いっ**せん
-> - **3000** :　ろっ**ぴゃく**
-> - **8000** :　はっ**ぴゃく** 
+> - **3000** :　さん**ぜん**
+> - **8000** :　はっ**せん** 
 
 
 
@@ -120,19 +120,19 @@ Nombre de "dizaines de milliers" + **まん** (<ruby>万<rp>(</rp><rt>まん</rt
 
 ## 2. Nombres - Référence
 
-- 0 -　　／　れい 
+- 0 -　〇　／　れい 
 - 1 -　<ruby>一<rp>(</rp><rt>いち</rt><rp>)</rp></ruby> 　／　いち
 - 2 -　<ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby> 　／　に
 - 3 -　<ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby> 　／　さん
 - 4 -　<ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> 　／　よん
-  - 📝**Note** : Le kanji **4** 四 à deux prononciations : よん selon la prononciation japonaise *(kunyomi)* et し selon la prononciation "chinoise" *(onyomi)*.  
+  - 📝**Note** : Le kanji **4** 四 a deux prononciations : よん selon la prononciation japonaise *(kunyomi)* et し selon la prononciation "chinoise" *(onyomi)*.  
     Cependant le kanji  <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby> de *"mort"* se prononçant également し, par superstition les japonais préféreront prononcer 四 ”よん” a l'oral la plupart du temps.  
     Néanmoins, le mois d'Avril se dit <ruby>四<rp>(</rp><rt>し</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>. On conserve ici la prononciation onyomi.  
     Il est important de connaître ces variations car elles peuvent apparaître dans différents contextes.
 - 5 -　<ruby>五<rp>(</rp><rt>ご</rt><rp>)</rp></ruby> 　／　ご
 - 6 -　<ruby>六<rp>(</rp><rt>ろく</rt><rp>)</rp></ruby> 　／　ろく
 - 7 -　<ruby>七<rp>(</rp><rt>なな</rt><rp>)</rp></ruby> 　／　なな　*(Se prononce également しち)*
-  - 📝**Note** : A l'instar de <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> , le kanji **7** 七 à deux prononciations : なな selon la prononciation japonaise *(kunyomi)* et しち selon la prononciation "chinoise" *(onyomi)*.   
+  - 📝**Note** : A l'instar de <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby> , le kanji **7** 七 a deux prononciations : なな selon la prononciation japonaise *(kunyomi)* et しち selon la prononciation "chinoise" *(onyomi)*.   
     Cependant le kanji  <ruby>死<rp>(</rp><rt>し</rt><rp>)</rp></ruby> de *"mort"* se prononçant également し, par superstition les japonais préféreront prononcer 七 "なな" a l'oral la plupart du temps.    
     Néanmoins, le mois de Juillet se dit <ruby>七<rp>(</rp><rt>しち</rt><rp>)</rp></ruby><ruby>月<rp>(</rp><rt>がつ</rt><rp>)</rp></ruby>. On conserve ici la prononciation onyomi.  
     Il est important de connaître ces variations car elles peuvent apparaître dans différents contextes.
@@ -161,9 +161,9 @@ Nombre de "dizaines de milliers" + **まん** (<ruby>万<rp>(</rp><rt>まん</rt
 - 800 - <ruby>八<rp>(</rp><rt>はっ</rt><rp>)</rp></ruby><ruby>百<rp>(</rp><rt>ぴゃく</rt><rp>)</rp></ruby> 　／　はっぴゃく
 - ...
 - 1000 - <ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／　っせ　 *ou parfois* 　<ruby>一<rp>(</rp><rt>いっ</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／　いっせん
-- 2000 - <ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／　にっせん
+- 2000 - <ruby>二<rp>(</rp><rt>に</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／　にせん
 - 3000 - <ruby>三<rp>(</rp><rt>さん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>ぜん</rt><rp>)</rp></ruby>　／　さんぜん
-- 4000 - <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／よんせんん
+- 4000 - <ruby>四<rp>(</rp><rt>よん</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／　よんせん
 - ...
 - 8000 - <ruby>八<rp>(</rp><rt>はっ</rt><rp>)</rp></ruby><ruby>千<rp>(</rp><rt>せん</rt><rp>)</rp></ruby>　／　はっせん
 - ...
